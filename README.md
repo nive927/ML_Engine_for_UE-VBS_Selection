@@ -1,6 +1,10 @@
 # ML_Engine_for_UE-VBS_Selection
 A Two Stage Machine Learning Approach for 5G Mobile Network Augmentation through Dynamic Selection and Activation of UE_VBSs.
 
+## Note: Use Jupyter NbViewer to load the code if GitHub doesn't render
+Please copy the links of the .ipynb files and paste it in [NbViewer](https://nbviewer.org/) if GitHub fails to load it in the browser.
+
+## Helpful Documents and Notebooks
 - Check out the [Data](./master_simulation_1000_2500.csv) used to train these models.
 - Check out the two-stage machine learning model [Code!](./06-Cluster_Head_and_Sum_Rate_Calculation.ipynb)
 - Check out the project presentation [Deck!](./Docs/PPT-Review.pdf)
